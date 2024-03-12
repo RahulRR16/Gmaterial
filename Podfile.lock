@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.4)
+  - FTIndicator/FTProgressIndicator (1.2.9)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - FTIndicator/FTProgressIndicator
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FTIndicator
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  FTIndicator: f7f071fd159e5befa1d040a9ef2e3ab53fa9322c
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: c683e760ff59e2afb51b1b645f0832c74e52d3fd
+
+COCOAPODS: 1.12.1
